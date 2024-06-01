@@ -1,0 +1,3 @@
+node --watch <ruta de enttada>  permite observar los cambios en el servidor
+ejemplo 
+node --watch src/index.js
